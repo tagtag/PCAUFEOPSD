@@ -8,10 +8,15 @@ methylated cytosines: Optimization of standard deviation versus state-of-art met
 The following files should be placed in the suitable directories
 #./
 GSE77965_series_matrix.txt.gz
+
 https://ftp.ncbi.nlm.nih.gov/geo/series/GSE77nnn/GSE77965/matrix/GSE77965_series_matrix.txt.gz
+
 GPL13534-11288.txt.gz
+
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL13534
+
 wgEncodeDukeDnaseFibrobl.fdr01peaks.hg19.bb
+
 http://mirror.vcu.edu/vcu/encode/DNase-seq\_Peaks/wgEncodeDukeDnaseFibrobl.fdr01peaks.hg19.bb
 
 #./GSE77965
