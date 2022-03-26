@@ -73,7 +73,7 @@ GSM2062686_7878191157_R03C02_Red.idat.gz
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE77965
 
 
-./GSE42308
+#./GSE42308
 
 sample_table.csv 
 
