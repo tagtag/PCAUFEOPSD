@@ -17,7 +17,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL13534
 
 wgEncodeDukeDnaseFibrobl.fdr01peaks.hg19.bb
 
-http://mirror.vcu.edu/vcu/encode/DNase-seq\_Peaks/wgEncodeDukeDnaseFibrobl.fdr01peaks.hg19.bb
+http://mirror.vcu.edu/vcu/encode/DNase-seq_Peaks/wgEncodeDukeDnaseFibrobl.fdr01peaks.hg19.bb
 
 #./GSE77965
 sample_table.csv 
