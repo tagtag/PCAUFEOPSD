@@ -1,0 +1,13 @@
+[Header],,,
+,,,
+,,,
+,,,
+,,,
+[Data],,,
+Sample_Name,Sample_Group,Sentrix_ID,Sentrix_Position
+C1,Control,5958154021,R01C01
+C2,Control,5958154021,R02C01
+C3,Control,5958154021,R03C01
+M1,Mutant,5958154021,R04C01
+M2,Mutant,5958154021,R05C01
+M3,Mutant,5958154021,R06C01
