@@ -5,7 +5,7 @@ This is a sample souce code to perform analysis in the paper
 "Principal component analysis- and tensor decomposition- based unsupervised feature extraction to select more reasonable differentially
 methylated cytosines: Optimization of standard deviation versus state-of-art methods"
 
-The following files should be placed in the suitable directories
+The following files should be downloaded and placed in the suitable directories
 
 #./
 
