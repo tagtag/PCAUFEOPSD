@@ -6,7 +6,9 @@ This is a sample souce code to perform analysis in the paper
 methylated cytosines: Optimization of standard deviation versus state-of-art methods"
 
 The following files should be placed in the suitable directories
+
 #./
+
 GSE77965_series_matrix.txt.gz
 
 https://ftp.ncbi.nlm.nih.gov/geo/series/GSE77nnn/GSE77965/matrix/GSE77965_series_matrix.txt.gz
