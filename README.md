@@ -91,3 +91,14 @@ GSM1038313_5958154021_R06C01_Grn.idat.gz
 GSM1038313_5958154021_R06C01_Red.idat.gz
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42308
+
+#./GSE34864_RAW
+
+GSM856495_oocytes-BDF1-1.cpgs.txt.gz
+GSM856496_oocytes-BDF1-2.cpgs.txt.gz
+GSM856501_zygote-BDF1-BDF1-1.cpgs.txt.gz
+GSM856502_zygote-BDF1-BDF1-2.cpgs.txt.gz
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE34864
+
+
