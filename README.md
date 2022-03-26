@@ -22,7 +22,9 @@ wgEncodeDukeDnaseFibrobl.fdr01peaks.hg19.bb
 http://mirror.vcu.edu/vcu/encode/DNase-seq_Peaks/wgEncodeDukeDnaseFibrobl.fdr01peaks.hg19.bb
 
 #./GSE77965
+
 sample_table.csv 
+
 GSM2062665_7796806124_R01C01_Grn.idat.gz
 GSM2062665_7796806124_R01C01_Red.idat.gz
 GSM2062666_7796806124_R02C01_Grn.idat.gz
