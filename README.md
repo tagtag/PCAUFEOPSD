@@ -2,8 +2,8 @@
 PCA and TD based unsupervised FE with optimised SD
 
 This is a sample souce code to perform analysis in the paper 
-"Principal component analysis- and tensor decomposition- based unsupervised feature extraction to select more reasonable differentially
-methylated cytosines: Optimization of standard deviation versus state-of-art methods"
+"Principal component analysis- and tensor decomposition- based unsupervised feature extraction to select more reasonable differentially methylated cytosines: Optimization of standard deviation versus state-of-art methods"
+https://doi.org/10.1101/2022.04.02.486807
 
 The following files should be downloaded and placed in the suitable directories
 
